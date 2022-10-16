@@ -1,3 +1,3 @@
 return res.send(
-  "output.html"
+  "<h1>TEST</h1>"
 )
